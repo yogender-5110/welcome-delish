@@ -156,6 +156,9 @@ body{background-color: ; background-position: center; background-size: cover; bo
 .menubar2 .navbar-toggler-icon{background-image: url("d.webp"); border: none; outline: none;}
 .menubar2 .navbar-nav .active .nav-link{ background-color#292728; color: #fff!important; }
 
+.hom1{ content:"\e1b0"; font-family:Font Awesome 5 free; font-weight:900; margin-right:5px; display:inline-flex;}
+.home1{ content:"\e1b0"; font-family:Font Awesome 5 free; font-weight:900; margin-right:5px; display:inline-flex;}
+
 @media(max-width: 700px){.menubar2{ width: 100%; height: auto; background-color: #e5eecc; border 2px solid red; padding 25px; display: inline-block; align-items: flex-end; justify-content: flex-end;}
 }
 
