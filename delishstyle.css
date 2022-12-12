@@ -151,7 +151,7 @@ body{background-color: ; background-position: center; background-size: cover; bo
 .menubar2{ width: 100%; height: auto; background-color: #e5eecc; border 2px solid red; padding 25px; display: flex; align-items: center; justify-content: center;}
 .menubar2 .navbar{background-color: #e5eecc;  padding: 0; }
 .menubar2 .navbar-nav .nav-item .nav-link:hover{background-color: #292728; color: #fff; }
-.menubar2 .navbar-nav .nav-item .nav-link{background-color #292728; color: #111; }
+.menubar2 .navbar-nav .nav-item .nav-link{background-color #292728; color: #111;  }
 .menubar2 .navbar-nav .active{ background-color:#292728; color: #fff!important; }
 .menubar2 .navbar-toggler-icon{background-image: url("d.webp"); border: none; outline: none;}
 .menubar2 .navbar-nav .active .nav-link{ background-color#292728; color: #fff!important; }
